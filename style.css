@@ -21,9 +21,10 @@ Twenty Twenty-Two is distributed under the terms of the GNU GPL.
 
 	0. Fonts
 
- ----------------------------------------------------------------------------- */
+----------------------------------------------------------------------------- */
 
 /* -------------------------------------------------------------------------- */
+
 /*  0. Fonts
 /* -------------------------------------------------------------------------- */
 
@@ -32,16 +33,16 @@ Twenty Twenty-Two is distributed under the terms of the GNU GPL.
  * https://github.com/WordPress/wordpress-develop/pull/1573
  */
 
-@font-face{
-	font-family: 'Source Serif Pro';
+@font-face {
+	font-family: "Source Serif Pro";
 	font-weight: 200 900;
 	font-style: normal;
 	font-stretch: normal;
 	src: url('/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2') format('woff2');
 }
 
-@font-face{
-	font-family: 'Source Serif Pro';
+@font-face {
+	font-family: "Source Serif Pro";
 	font-weight: 200 900;
 	font-style: italic;
 	font-stretch: normal;
