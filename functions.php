@@ -41,6 +41,8 @@ endif;
 if ( ! function_exists( 'twentytwentytwo_editor_styles' ) ) :
 	/**
 	 * Enqueue editor styles.
+	 * 
+	 * @return void
 	 */
 	function twentytwentytwo_editor_styles() {
 		// Enqueue editor styles.
